@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/elevate/static/css/main.aa93c367.css",
-    "main.js": "/elevate/static/js/main.2f4ab2b0.js",
+    "main.js": "/elevate/static/js/main.8377570e.js",
     "static/js/787.350d7e1c.chunk.js": "/elevate/static/js/787.350d7e1c.chunk.js",
     "static/media/logo.svg": "/elevate/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/elevate/index.html",
     "main.aa93c367.css.map": "/elevate/static/css/main.aa93c367.css.map",
-    "main.2f4ab2b0.js.map": "/elevate/static/js/main.2f4ab2b0.js.map",
+    "main.8377570e.js.map": "/elevate/static/js/main.8377570e.js.map",
     "787.350d7e1c.chunk.js.map": "/elevate/static/js/787.350d7e1c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aa93c367.css",
-    "static/js/main.2f4ab2b0.js"
+    "static/js/main.8377570e.js"
   ]
 }
