@@ -2,10 +2,11 @@ import React from "react";
 import { Carousel } from "flowbite-react";
 // import imageSliderData from "../../constant/imageslider.ts";
 const imageSliderData: any = [
-	"https://static.vecteezy.com/system/resources/thumbnails/011/871/820/small/online-shopping-on-phone-buy-sell-business-digital-web-banner-application-money-advertising-payment-ecommerce-illustration-search-vector.jpg",
-	"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMn1PCo4QTFWeaPKo6GpAZW1Tp8cDB24uVORP0lIZl8GzWsQAVRNDopBQ4yBXrgHaM1g&usqp=CAU",
+	"https://www.martechcube.com/wp-content/uploads/2021/04/iCloudModel-1-1024x576.jpg",
+	"https://img.freepik.com/premium-photo/online-shopping-concept-fashion-internet-generate-ai_868783-1216.jpg",
+	"https://img.freepik.com/premium-photo/online-shopping-concept-smartphone-blue-background-ai-generation_201606-4494.jpg",
 	"https://d1m75rqqgidzqn.cloudfront.net/wp-data/2021/01/25181555/eCommerce-Cartoon.png",
-	"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQTJtFr0V1A9u8eSUWv5oEaQKV8BiwtdBsZg&usqp=CAU",
+	"https://builtin.com/sites/www.builtin.com/files/styles/og/public/2022-06/ecommerce-companies.png",
 ];
 const CarouselHeader = () => {
 	return (
@@ -16,8 +17,6 @@ const CarouselHeader = () => {
 						return (
 							<img
 								key={data}
-								height={100}
-								width={100}
 								style={{ height: "100%", width: "100%" }}
 								// src={data?.src}
 								src={data}
